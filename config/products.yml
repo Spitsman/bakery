@@ -1,0 +1,25 @@
+- name: Vegemite Scroll
+  code: VS5
+  packs:
+    - price: 6.99
+      count: 3
+    - price: 8.99
+      count: 5
+- name: Blueberry Muffin 
+  code: MB11
+  packs:
+    - price: 9.95
+      count: 2
+    - price: 16.95
+      count: 5
+    - price: 24.95
+      count: 8
+- name: Croissant 
+  code: CF
+  packs:
+    - price: 5.95
+      count: 3
+    - price: 9.95
+      count: 5
+    - price: 16.99
+      count: 9
